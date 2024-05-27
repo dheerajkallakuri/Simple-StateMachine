@@ -48,6 +48,12 @@ If using an external push button:
 1. **Initial State**: When the Arduino Nano 33 BLE Sense is powered on, it will start in the initial state, indicated by a specific color on the RGB LED.
 2. **State Transitions**: Pressing the push button (or activating the soft switch) will transition the state machine to the next state. Each state will be indicated by a different color on the RGB LED.
 
+## Video Demonstration
+
+For a visual demonstration of this project, please refer to the video linked below:
+
+[Project Video Demonstration](https://youtube.com/shorts/Wy332SxERs8?feature=share)
+
 ## Notes
 
 - Ensure the Arduino Nano 33 BLE Sense is properly connected to your computer.
