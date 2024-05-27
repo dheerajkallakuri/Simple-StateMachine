@@ -4,6 +4,8 @@
 
 This project involves using the Arduino Nano 33 BLE Sense to implement a simple state machine. Each state in the state machine is associated with a unique color displayed on the inbuilt RGB LED. The RGB LED is connected to pins 22, 23, and 24. The state machine transitions between states using a push-button mechanism, which can be either an external hardware switch or a software-implemented soft switch.
 
+<img width="401" alt="stateMachine" src="https://github.com/dheerajkallakuri/StateMachine_ArduinoNanoBLESense/assets/23552796/9dd78af1-d575-4153-a3f2-44cf625f8919">
+
 ## Components
 
 - **Arduino Nano 33 BLE Sense**
@@ -53,6 +55,8 @@ If using an external push button:
 For a visual demonstration of this project, please refer to the video linked below:
 
 [Project Video Demonstration](https://youtube.com/shorts/Wy332SxERs8?feature=share)
+
+[![Project Video Demonstration](https://img.youtube.com/vi/Wy332SxERs8/0.jpg)](https://www.youtube.com/watch?v=Wy332SxERs8)
 
 ## Notes
 
